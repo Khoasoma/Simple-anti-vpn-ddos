@@ -1,0 +1,4 @@
+name: CustomAC
+version: '${project.version}'
+main: org.khoasoma.untitled.CustomAC
+api-version: '1.19'

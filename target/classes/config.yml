@@ -1,0 +1,4 @@
+maxRequestsPerMinute: 100
+blockTimeMs: 60000
+maxConcurrentConnections: 10
+minTimeBetweenConnectionsMs: 1000
